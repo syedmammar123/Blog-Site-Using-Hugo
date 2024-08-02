@@ -13,6 +13,8 @@
 body{
     background: var(--bg) ;
     color: var(--text);
+      font-family: "Roboto", sans-serif;
+
 }
 
 a{
@@ -27,7 +29,6 @@ a{
     flex-direction: column;
     justify-content: space-between;
     max-width: 1366px;
-    background-color: rebeccapurple;
     padding-left: 50px;
     padding-right: 50px;
 
@@ -38,6 +39,9 @@ a{
     align-items: center;
     justify-content: space-between;
     height: 100px;
+    position: sticky;
+    top: 0;
+    background-color: var(--bg);
 }
 
 .logo{
@@ -66,6 +70,115 @@ a{
 }
 
 /* -------------------------Navbar End-------------------------------- */
+
+/* -------------------------SinglePage Start-------------------------------- */
+
+
+.singleHead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.singleHeadTexts {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.singleHeadTitle {
+  font-size: 48px;
+}
+
+.singleHeadDesc {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.singleHeadDetail {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.singleAvatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.singleCategory {
+  padding: 5px;
+  border-radius: 5px;
+  background-color: var(--bgSoft);
+  color: var(--textSoft);
+  font-size: 14px;
+}
+
+.singleHeadImg {
+  flex: 1;
+  max-height: 350px;
+  object-fit: cover;
+}
+
+.singleBottom {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+  margin-top: 50px;
+}
+
+.singleContent {
+  flex: 3;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.singleContent p,
+.singleContent h1,
+.singleContent h2,
+.singleContent h3 {
+  margin: 20px 0px;
+}
+
+.singleContent img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.singleContent pre {
+  width: 100%;
+  overflow-x: scroll;
+  padding: 20px;
+}
+
+.singleRightBar {
+  flex: 1;
+}
+/* -------------------------SinglePage End-------------------------------- */
+
+/* -------------------------RightBar Start-------------------------------- */
+.rightBar {
+  position: sticky;
+  top: 100px;
+}
+
+.rightBarImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.rightBarImgHr {
+  display: none;
+}
+/* -------------------------RightBar End-------------------------------- */
+
+
+
 
 
 /* -------------------------Footer Start-------------------------------- */
@@ -135,43 +248,63 @@ a{
 
 /* -------------------------List End-------------------------------- */
 
-@media (max-width:1536px)  {
-    .container{
-        max-width: 1366px;
-    }
+@media (max-width: 1536px) {
+  .container {
+    max-width: 1366px;
+  }
 }
-
-@media (max-width:1366px)  {
-    .container{
-        max-width: 1280px;
-    }
+@media (max-width: 1366px) {
+  .container {
+    max-width: 1280px;
+  }
 }
-
-@media (max-width:1280px)  {
-    .container{
-        max-width: 1024px;
-    }
+@media (max-width: 1280px) {
+  .container {
+    max-width: 1024px;
+  }
 }
+@media (max-width: 1024px) {
+  .container {
+    max-width: 768px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 
-@media (max-width:1024px)  {
-    .container{
-        max-width: 768px;
-        padding-left: 10px;
-        padding-right: 10px;
-    }
+  .singleHeadImg {
+    display: none;
+  }
+
+  .singleBottom {
+    flex-direction: column-reverse;
+  }
+
+  .rightBarImg {
+    display: none;
+  }
+
+  .rightBarImgHr {
+    display: block;
+    width: 100%;
+  }
 }
+@media (max-width: 768px) {
+  .container {
+    max-width: 640px;
+  }
+  .links {
+    font-size: 14px;
+  }
 
-@media (max-width:768px)  {
-    .container{
-        max-width: 640px;
-    }
-    .links{
-        font-style: 14px;
-    }
+  .listItemImage {
+    display: none;
+  }
+
+  .searchButton span{
+    display: none;
+  }
 }
-
-@media (max-width:640px)  {
-    .container{
-        max-width: 475px;
-    }
+@media (max-width: 640px) {
+  .container {
+    max-width: 475px;
+  }
 }

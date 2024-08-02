@@ -7,3 +7,4 @@ title = 'My Personal Blog'
 
 [taxonomies]
  author = "authors"
+ categories = "categories"
