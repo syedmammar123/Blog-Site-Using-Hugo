@@ -13,7 +13,7 @@
       <link>http://localhost:1313/my-first/</link>
       <pubDate>Thu, 01 Aug 2024 20:17:10 +0500</pubDate>
       <guid>http://localhost:1313/my-first/</guid>
-      <description>Test content bismillah!</description>
+      <description>Introduction to CSS CSS (Cascading Style Sheets) is a language used to describe the presentation of a document written in HTML or XML. CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.&#xA;Basic Syntax CSS is a rule-based language. You define rules specifying groups of styles that should be applied to particular elements or groups of elements on your web page.&#xA;Example Here is a simple example of a CSS rule:</description>
     </item>
   </channel>
 </rss>

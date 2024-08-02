@@ -16,6 +16,11 @@ body{
       font-family: "Roboto", sans-serif;
 
 }
+body.light{
+    --bg:#dee4eb;
+    --text: #0b1529;
+
+}
 
 a{
     color: inherit;
@@ -67,6 +72,36 @@ a{
     padding: 5px 10px;
     border-radius: 10px;
 
+}
+
+.toggle{
+    width: 40px;
+    height: 20px; 
+    border-radius: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background-color: var(--bgSoft);
+    border: 0.5px solid var(--textSoft);
+    padding: 5px;
+    position: relative;
+}
+
+.ball{
+    width: 19px;
+    height: 19px;
+    border-radius: 50% ;
+    position: absolute;
+    left: 0;
+    background-color: var(--textSoft);
+    border: 1px solid var(--bgSoft);
+
+}
+
+.light .ball{
+    left: unset;
+    right: 0;
 }
 
 /* -------------------------Navbar End-------------------------------- */
@@ -246,7 +281,40 @@ a{
     border-radius: 5px;
 }
 
+.pagination{
+  display: flex;
+  gap: 10px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+
+.page-item{
+  border: 1px solid gray;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+
+.page-item.active{
+  background-color: var(--text);
+  color: var(--bg);
+}
+.page-item.disabled{
+  background-color: #313845;
+  cursor: not-allowed;
+}
+
 /* -------------------------List End-------------------------------- */
+
+
+
 
 @media (max-width: 1536px) {
   .container {
@@ -285,6 +353,10 @@ a{
   .rightBarImgHr {
     display: block;
     width: 100%;
+  }
+
+  .searchButton span{
+    display: none;
   }
 }
 @media (max-width: 768px) {
