@@ -104,6 +104,22 @@ a{
     right: 0;
 }
 
+#search-results {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#search-results li {
+    margin: 5px 0;
+}
+
+#search-results a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+
 /* -------------------------Navbar End-------------------------------- */
 
 /* -------------------------SinglePage Start-------------------------------- */
@@ -155,7 +171,6 @@ a{
 
 .singleHeadImg {
   flex: 1;
-  max-height: 350px;
   object-fit: cover;
 }
 
@@ -244,7 +259,7 @@ a{
 .listItemImage{
     width: 200px;
     height: 200px;
-    object-fit: cover;
+    object-fit: contain;
 
 }
 

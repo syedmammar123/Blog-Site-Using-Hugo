@@ -6,35 +6,21 @@
     <description>Recent content in Life on My Personal Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2024 20:17:10 +0500</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 20:17:10 +0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First</title>
-      <link>http://localhost:1313/my-first/</link>
-      <pubDate>Thu, 01 Aug 2024 20:17:10 +0500</pubDate>
-      <guid>http://localhost:1313/my-first/</guid>
-      <description>Introduction to CSS CSS (Cascading Style Sheets) is a language used to describe the presentation of a document written in HTML or XML. CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.&#xA;Basic Syntax CSS is a rule-based language. You define rules specifying groups of styles that should be applied to particular elements or groups of elements on your web page.&#xA;Example Here is a simple example of a CSS rule:</description>
+      <title>Uses of Artificial Intelligence</title>
+      <link>http://localhost:1313/uses-of-ai/</link>
+      <pubDate>Thu, 10 Oct 2024 20:17:10 +0500</pubDate>
+      <guid>http://localhost:1313/uses-of-ai/</guid>
+      <description>Uses of Artificial Intelligence Artificial Intelligence (AI) has rapidly transformed various industries and continues to shape our world in unprecedented ways. From enhancing customer experiences to automating complex processes, AI&amp;rsquo;s capabilities are being harnessed across multiple sectors. In this blog post, we will explore some of the most impactful uses of AI today.&#xA;1. Healthcare AI is revolutionizing the healthcare industry by improving diagnostics, treatment planning, and patient care. Applications include:</description>
     </item>
     <item>
-      <title>My First 6</title>
-      <link>http://localhost:1313/my-first-copy-6/</link>
-      <pubDate>Thu, 01 Aug 2024 20:17:10 +0500</pubDate>
-      <guid>http://localhost:1313/my-first-copy-6/</guid>
-      <description>Test content bismillah!</description>
-    </item>
-    <item>
-      <title>My First 7</title>
-      <link>http://localhost:1313/my-first-copy-7/</link>
-      <pubDate>Thu, 01 Aug 2024 20:17:10 +0500</pubDate>
-      <guid>http://localhost:1313/my-first-copy-7/</guid>
-      <description>Test content bismillah!</description>
-    </item>
-    <item>
-      <title>My First5</title>
-      <link>http://localhost:1313/my-first-copy-5/</link>
-      <pubDate>Thu, 01 Aug 2024 20:17:10 +0500</pubDate>
-      <guid>http://localhost:1313/my-first-copy-5/</guid>
-      <description>Test content bismillah!</description>
+      <title>Machine Learning in Sports</title>
+      <link>http://localhost:1313/machine_learning_in_sports/</link>
+      <pubDate>Sun, 01 Sep 2024 20:17:10 +0500</pubDate>
+      <guid>http://localhost:1313/machine_learning_in_sports/</guid>
+      <description>Machine Learning in Sports Machine Learning (ML) has made significant inroads into the world of sports, transforming how athletes train, how teams strategize, and how fans engage with their favorite sports. With the increasing availability of data and advancements in computational power, ML algorithms are being leveraged to gain insights, optimize performance, and enhance the overall experience in the sporting arena. This blog post explores the various applications of machine learning in sports and its profound impact on athletes, teams, and fans alike.</description>
     </item>
   </channel>
 </rss>

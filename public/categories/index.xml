@@ -6,8 +6,64 @@
     <description>Recent content in Categories on My Personal Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2024 20:17:10 +0500</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 20:17:10 +0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development</title>
+      <link>http://localhost:1313/categories/development/</link>
+      <pubDate>Sat, 12 Oct 2024 20:17:10 +0500</pubDate>
+      <guid>http://localhost:1313/categories/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/categories/tech/</link>
+      <pubDate>Sat, 12 Oct 2024 20:17:10 +0500</pubDate>
+      <guid>http://localhost:1313/categories/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1313/categories/web/</link>
+      <pubDate>Sat, 12 Oct 2024 20:17:10 +0500</pubDate>
+      <guid>http://localhost:1313/categories/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai</title>
+      <link>http://localhost:1313/categories/ai/</link>
+      <pubDate>Thu, 10 Oct 2024 20:17:10 +0500</pubDate>
+      <guid>http://localhost:1313/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/categories/life/</link>
+      <pubDate>Thu, 10 Oct 2024 20:17:10 +0500</pubDate>
+      <guid>http://localhost:1313/categories/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ml</title>
+      <link>http://localhost:1313/categories/ml/</link>
+      <pubDate>Thu, 10 Oct 2024 20:17:10 +0500</pubDate>
+      <guid>http://localhost:1313/categories/ml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sports</title>
+      <link>http://localhost:1313/categories/sports/</link>
+      <pubDate>Sun, 01 Sep 2024 20:17:10 +0500</pubDate>
+      <guid>http://localhost:1313/categories/sports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>http://localhost:1313/categories/css/</link>
+      <pubDate>Thu, 01 Aug 2024 20:17:10 +0500</pubDate>
+      <guid>http://localhost:1313/categories/css/</guid>
+      <description></description>
+    </item>
     <item>
       <title>General</title>
       <link>http://localhost:1313/categories/general/</link>
@@ -16,24 +72,10 @@
       <description></description>
     </item>
     <item>
-      <title>Life</title>
-      <link>http://localhost:1313/categories/life/</link>
-      <pubDate>Thu, 01 Aug 2024 20:17:10 +0500</pubDate>
-      <guid>http://localhost:1313/categories/life/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music</title>
-      <link>http://localhost:1313/categories/music/</link>
-      <pubDate>Thu, 01 Aug 2024 20:17:10 +0500</pubDate>
-      <guid>http://localhost:1313/categories/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sports</title>
-      <link>http://localhost:1313/categories/sports/</link>
-      <pubDate>Thu, 01 Aug 2024 20:17:10 +0500</pubDate>
-      <guid>http://localhost:1313/categories/sports/</guid>
+      <title>Static_sites</title>
+      <link>http://localhost:1313/categories/static_sites/</link>
+      <pubDate>Mon, 01 Jul 2024 20:17:10 +0500</pubDate>
+      <guid>http://localhost:1313/categories/static_sites/</guid>
       <description></description>
     </item>
   </channel>

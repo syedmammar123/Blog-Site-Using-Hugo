@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on My Personal Blog</title>
+    <link>http://localhost:1313/categories/tech/</link>
+    <description>Recent content in Tech on My Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Oct 2024 20:17:10 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro to React JS?</title>
+      <link>http://localhost:1313/intro_to_react_js/</link>
+      <pubDate>Sat, 12 Oct 2024 20:17:10 +0500</pubDate>
+      <guid>http://localhost:1313/intro_to_react_js/</guid>
+      <description>Introduction to React JS React JS is an open-source JavaScript library for building user interfaces, primarily for single-page applications where you need a fast, interactive user experience. Developed and maintained by Facebook, along with a community of individual developers and companies, React has become one of the most popular JavaScript libraries in the web development ecosystem. In this blog post, we will explore the core concepts of React, its benefits, and how to get started with it.</description>
+    </item>
+    <item>
+      <title>Uses of Artificial Intelligence</title>
+      <link>http://localhost:1313/uses-of-ai/</link>
+      <pubDate>Thu, 10 Oct 2024 20:17:10 +0500</pubDate>
+      <guid>http://localhost:1313/uses-of-ai/</guid>
+      <description>Uses of Artificial Intelligence Artificial Intelligence (AI) has rapidly transformed various industries and continues to shape our world in unprecedented ways. From enhancing customer experiences to automating complex processes, AI&amp;rsquo;s capabilities are being harnessed across multiple sectors. In this blog post, we will explore some of the most impactful uses of AI today.&#xA;1. Healthcare AI is revolutionizing the healthcare industry by improving diagnostics, treatment planning, and patient care. Applications include:</description>
+    </item>
+  </channel>
+</rss>
