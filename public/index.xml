@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Personal Blog</title>
+    <title>A blog site by Ammar</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My Personal Blog</description>
+    <description>Recent content on A blog site by Ammar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Oct 2024 20:17:10 +0500</lastBuildDate>
