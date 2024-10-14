@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A blog site by Ammar</title>
-    <link>https://syedmammar123.github.io/</link>
+    <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/</link>
     <description>Recent content on A blog site by Ammar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Oct 2024 20:17:10 +0500</lastBuildDate><atom:link href="https://syedmammar123.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Oct 2024 20:17:10 +0500</lastBuildDate><atom:link href="https://syedmammar123.github.io/Blog-Site-Using-Hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro to React JS?</title>
-      <link>https://syedmammar123.github.io/intro_to_react_js/</link>
+      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/intro_to_react_js/</link>
       <pubDate>Sat, 12 Oct 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/intro_to_react_js/</guid>
+      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/intro_to_react_js/</guid>
       <description>Introduction to React JS React JS is an open-source JavaScript library for building user interfaces, primarily for single-page applications where you need a fast, interactive user experience. Developed and maintained by Facebook, along with a community of individual developers and companies, React has become one of the most popular JavaScript libraries in the web development ecosystem. In this blog post, we will explore the core concepts of React, its benefits, and how to get started with it.</description>
     </item>
     
     <item>
       <title>Uses of Artificial Intelligence</title>
-      <link>https://syedmammar123.github.io/uses-of-ai/</link>
+      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/uses-of-ai/</link>
       <pubDate>Thu, 10 Oct 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/uses-of-ai/</guid>
+      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/uses-of-ai/</guid>
       <description>Uses of Artificial Intelligence Artificial Intelligence (AI) has rapidly transformed various industries and continues to shape our world in unprecedented ways. From enhancing customer experiences to automating complex processes, AI&amp;rsquo;s capabilities are being harnessed across multiple sectors. In this blog post, we will explore some of the most impactful uses of AI today.
 1. Healthcare AI is revolutionizing the healthcare industry by improving diagnostics, treatment planning, and patient care. Applications include:</description>
     </item>
     
     <item>
       <title>Machine Learning in Sports</title>
-      <link>https://syedmammar123.github.io/machine_learning_in_sports/</link>
+      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/machine_learning_in_sports/</link>
       <pubDate>Sun, 01 Sep 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/machine_learning_in_sports/</guid>
+      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/machine_learning_in_sports/</guid>
       <description>Machine Learning in Sports Machine Learning (ML) has made significant inroads into the world of sports, transforming how athletes train, how teams strategize, and how fans engage with their favorite sports. With the increasing availability of data and advancements in computational power, ML algorithms are being leveraged to gain insights, optimize performance, and enhance the overall experience in the sporting arena. This blog post explores the various applications of machine learning in sports and its profound impact on athletes, teams, and fans alike.</description>
     </item>
     
     <item>
       <title>Introduction to CSS</title>
-      <link>https://syedmammar123.github.io/intro-to-css/</link>
+      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/intro-to-css/</link>
       <pubDate>Thu, 01 Aug 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/intro-to-css/</guid>
+      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/intro-to-css/</guid>
       <description>Introduction to CSS CSS (Cascading Style Sheets) is a language used to describe the presentation of a document written in HTML or XML. CSS specifies how elements should be rendered on the screen, in print, or on other media.
 Basic Syntax CSS is a rule-based language. You define rules that specify groups of styles to be applied to specific elements or groups of elements on your web page.
 Example Here is a simple example of a CSS rule:</description>
@@ -48,10 +48,10 @@ Example Here is a simple example of a CSS rule:</description>
     
     <item>
       <title>What is Hugo?</title>
-      <link>https://syedmammar123.github.io/what-is-hugo/</link>
+      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/what-is-hugo/</link>
       <pubDate>Mon, 01 Jul 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/what-is-hugo/</guid>
+      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/what-is-hugo/</guid>
       <description>What is Hugo? Hugo is an open-source static site generator written in Go. It&amp;rsquo;s designed for speed and flexibility, allowing developers to create a wide variety of websites, from simple blogs to complex web applications. With its powerful templating capabilities, Hugo provides a great platform for building fast, modern websites without the complexity of traditional content management systems.
 Key Features Fast Performance: Hugo is known for its remarkable speed in generating websites, making it one of the fastest static site generators available.</description>
     </item>

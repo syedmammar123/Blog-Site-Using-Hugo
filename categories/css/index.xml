@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>css on A blog site by Ammar</title>
-    <link>https://syedmammar123.github.io/categories/css/</link>
+    <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/css/</link>
     <description>Recent content in css on A blog site by Ammar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2024 20:17:10 +0500</lastBuildDate><atom:link href="https://syedmammar123.github.io/categories/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Aug 2024 20:17:10 +0500</lastBuildDate><atom:link href="https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to CSS</title>
-      <link>https://syedmammar123.github.io/intro-to-css/</link>
+      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/intro-to-css/</link>
       <pubDate>Thu, 01 Aug 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/intro-to-css/</guid>
+      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/intro-to-css/</guid>
       <description>Introduction to CSS CSS (Cascading Style Sheets) is a language used to describe the presentation of a document written in HTML or XML. CSS specifies how elements should be rendered on the screen, in print, or on other media.
 Basic Syntax CSS is a rule-based language. You define rules that specify groups of styles to be applied to specific elements or groups of elements on your web page.
 Example Here is a simple example of a CSS rule:</description>
