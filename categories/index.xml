@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on A blog site by Ammar</title>
-    <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/</link>
+    <link>https://syedmammar123.github.io/categories/</link>
     <description>Recent content in Categories on A blog site by Ammar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Oct 2024 20:17:10 +0500</lastBuildDate><atom:link href="https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Oct 2024 20:17:10 +0500</lastBuildDate><atom:link href="https://syedmammar123.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>development</title>
-      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/development/</link>
+      <link>https://syedmammar123.github.io/categories/development/</link>
       <pubDate>Sat, 12 Oct 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/development/</guid>
+      <guid>https://syedmammar123.github.io/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech</title>
-      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/tech/</link>
+      <link>https://syedmammar123.github.io/categories/tech/</link>
       <pubDate>Sat, 12 Oct 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/tech/</guid>
+      <guid>https://syedmammar123.github.io/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web</title>
-      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/web/</link>
+      <link>https://syedmammar123.github.io/categories/web/</link>
       <pubDate>Sat, 12 Oct 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/web/</guid>
+      <guid>https://syedmammar123.github.io/categories/web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ai</title>
-      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/ai/</link>
+      <link>https://syedmammar123.github.io/categories/ai/</link>
       <pubDate>Thu, 10 Oct 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/ai/</guid>
+      <guid>https://syedmammar123.github.io/categories/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
-      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/life/</link>
+      <link>https://syedmammar123.github.io/categories/life/</link>
       <pubDate>Thu, 10 Oct 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/life/</guid>
+      <guid>https://syedmammar123.github.io/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ml</title>
-      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/ml/</link>
+      <link>https://syedmammar123.github.io/categories/ml/</link>
       <pubDate>Thu, 10 Oct 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/ml/</guid>
+      <guid>https://syedmammar123.github.io/categories/ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sports</title>
-      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/sports/</link>
+      <link>https://syedmammar123.github.io/categories/sports/</link>
       <pubDate>Sun, 01 Sep 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/sports/</guid>
+      <guid>https://syedmammar123.github.io/categories/sports/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/css/</link>
+      <link>https://syedmammar123.github.io/categories/css/</link>
       <pubDate>Thu, 01 Aug 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/css/</guid>
+      <guid>https://syedmammar123.github.io/categories/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>general</title>
-      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/general/</link>
+      <link>https://syedmammar123.github.io/categories/general/</link>
       <pubDate>Thu, 01 Aug 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/general/</guid>
+      <guid>https://syedmammar123.github.io/categories/general/</guid>
       <description></description>
     </item>
     
     <item>
       <title>static_sites</title>
-      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/static_sites/</link>
+      <link>https://syedmammar123.github.io/categories/static_sites/</link>
       <pubDate>Mon, 01 Jul 2024 20:17:10 +0500</pubDate>
       
-      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/static_sites/</guid>
+      <guid>https://syedmammar123.github.io/categories/static_sites/</guid>
       <description></description>
     </item>
     
