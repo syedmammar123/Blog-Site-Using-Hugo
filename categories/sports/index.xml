@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sports on A blog site by Ammar</title>
+    <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/sports/</link>
+    <description>Recent content in sports on A blog site by Ammar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Sep 2024 20:17:10 +0500</lastBuildDate><atom:link href="https://syedmammar123.github.io/Blog-Site-Using-Hugo/categories/sports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning in Sports</title>
+      <link>https://syedmammar123.github.io/Blog-Site-Using-Hugo/machine_learning_in_sports/</link>
+      <pubDate>Sun, 01 Sep 2024 20:17:10 +0500</pubDate>
+      
+      <guid>https://syedmammar123.github.io/Blog-Site-Using-Hugo/machine_learning_in_sports/</guid>
+      <description>Machine Learning in Sports Machine Learning (ML) has made significant inroads into the world of sports, transforming how athletes train, how teams strategize, and how fans engage with their favorite sports. With the increasing availability of data and advancements in computational power, ML algorithms are being leveraged to gain insights, optimize performance, and enhance the overall experience in the sporting arena. This blog post explores the various applications of machine learning in sports and its profound impact on athletes, teams, and fans alike.</description>
+    </item>
+    
+  </channel>
+</rss>
